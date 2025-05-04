@@ -1,8 +1,12 @@
 👋 Hi, I’m @RubabFatima83
-- 👀 I’m interested in becoming a full stack developer and exploring various coding languages.
-- 🌱 I’m currently learning web development, focusing on HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on web development projects that challenge me to grow as a developer.
-- 📫 How to reach me: esarbukhari@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: I enjoy solving coding puzzles in my free time.
+
+👨‍💻 I’m a MERN stack developer passionate about building real-world web applications.
+🔍 Currently building a student-centric learning and collaboration platform using MongoDB, Express.js, React, and Node.js.
+📚 Continuously learning backend development, authentication, API integration, and full-stack deployment.
+🛠️ Experienced with version control, RESTful APIs, protected routes, role-based access, and modern UI design.
+💬 Let’s collaborate on meaningful projects that solve real problems!
+📫 Reach me at: esarbukhari@gmail.com
+😄 Pronouns: She/Her
+🚀 Fun fact: I love turning complex logic into clean, functional code!
+
 
