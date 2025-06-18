@@ -6,7 +6,5 @@
 🛠️ Experienced with version control, RESTful APIs, protected routes, role-based access, and modern UI design.
 💬 Let’s collaborate on meaningful projects that solve real problems!
 📫 Reach me at: esarbukhari@gmail.com
-😄 Pronouns: She/Her
-🚀 Fun fact: I love turning complex logic into clean, functional code!
 
 
